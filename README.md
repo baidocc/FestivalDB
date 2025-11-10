@@ -19,7 +19,7 @@ The project emphasizes data integrity through relationships, normalization, and 
 **Ticket Management** – Handle multiple ticket types (Standard, VIP, Gold) using an ISA hierarchy structure.  
 **Client Records** – Register and track client information and their purchased tickets.  
 **Employee Assignment** – Manage employees assigned to various concerts and roles.  
-**Advanced SQL Queries** – Includes five complex queries using subqueries, aggregate functions, date/string functions, CASE expressions, and CTEs (WITH clause).  
-**Data Operations** – Demonstrates INSERT, UPDATE, and DELETE operations for maintaining data consistency.
+**SQL Queries** – Includes five complex queries using subqueries, aggregate functions, date/string functions, CASE expressions, and CTEs (WITH clause).  
+**Data Operations** – INSERT, UPDATE, and DELETE operations for maintaining data consistency.
 
 
